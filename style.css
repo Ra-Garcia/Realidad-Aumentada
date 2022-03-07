@@ -1,0 +1,71 @@
+body
+{
+    background-color:white;
+    background-image:url("https://i.ytimg.com/vi/7A4pdwpT10Q/maxresdefault.jpg") ;
+}
+
+.cifrador
+{
+   
+    background-color: rgb(253, 230, 57);
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: large;
+    padding-bottom: 20px;
+    border-color: rgb(247, 247, 247);
+    border-width: 10px;
+    border-radius: 10px;
+    
+    
+}
+input{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 80);
+    color: black;
+}
+#mensaje
+{
+    text-align: center;
+}
+#mensaje{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 80);
+    color: black;
+}
+
+#cifrar
+{
+    background-color:rgb(131, 122, 122);
+    color: rgb(170, 254, 149);
+    border-radius: 20px;
+    font-size: medium;
+}
+
+#descifrar
+{
+    background-color:seagreen;
+    background-color:rgb(131, 122, 122);
+    color: rgb(245, 141, 141);
+    border-radius: 20px;
+    font-size: medium;
+}
+
+#menProc
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 6, 6);
+    text-align: center;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+   
+    color: rgb(10, 10, 10);
+    
+}
